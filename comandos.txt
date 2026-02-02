@@ -1,0 +1,38 @@
+git --version
+    ver a versão do git bash
+
+git init
+    inicair o repositorio
+
+git config user.name
+    configurar/adicionar um nome de usuário
+
+git config user.email
+    configurar/adicionar um email
+
+git branch -M
+    mudar nome da branch
+
+git status
+    mostra informações do repositorio (branch, commits)
+
+git add .
+    adicionar os arquivos locais ao repositorio
+
+git commit -m
+    comentar a mudança que foi feita no repositorio
+
+git log
+    histórico dos commits
+
+git checkout -b
+    criar nova branch e ir pra branch criada
+
+git branch 
+    criar nova branch
+
+git switch/checkout
+    mudar pra branch
+
+git pull
+    trazer alterações do repositorio remoto para o local
