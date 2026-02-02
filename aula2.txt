@@ -1,5 +1,3 @@
 comandos
 fazer merge
 teste
-teste
-teste
